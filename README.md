@@ -15,12 +15,10 @@ To get this project to work in its current state, following steps must be taken 
 
 Before deploying, the project must be run with the "generate-schemas" profile.
 The Run Configuration when generating the schemas should look like this.
-![Build config for generation]
-(https://github.com/IgorMilanovic23/IgorMilanovic23.github.io/blob/master/images/pic01.jpg)
+![Build config for generation](https://github.com/IgorMilanovic23/IgorMilanovic23.github.io/blob/master/images/pic01.jpg)
 
 After running with the above config and checking if the schemas have been generated correctly, following Run Configuration should be used for deployment:
-![Build config for deployment]
-(https://github.com/IgorMilanovic23/IgorMilanovic23.github.io/blob/master/images/pic02.jpg)
+![Build config for deployment](https://github.com/IgorMilanovic23/IgorMilanovic23.github.io/blob/master/images/pic02.jpg)
 
 
 ## License
